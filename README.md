@@ -44,11 +44,11 @@ This tool represents a significant step towards making technical content more ac
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Technical-Content-Summarization-Tool.git
+   git clone https://github.com/kulkarniaditya1002/Technical-Content-Summarization-Tool.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Technical-Content-Summarization-Tool
+   cd Blog_Summary
    ```
 3. Install the required dependencies:
    ```bash
@@ -56,6 +56,6 @@ This tool represents a significant step towards making technical content more ac
    ```
 4. Run the summarization tool:
    ```bash
-   python summarization_tool.py
+   python IRTxtGen.py
    ```
 
